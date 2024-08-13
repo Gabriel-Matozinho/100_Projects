@@ -68,3 +68,4 @@ for char in password_list:
    password += char
 
 print(f'Your password is: {password}')  # Imprime a senha final
+input('Press to end')
